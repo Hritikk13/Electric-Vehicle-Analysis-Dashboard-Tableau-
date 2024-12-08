@@ -39,3 +39,31 @@ To view or interact with the dashboard, ensure you have the following:
 
    ```bash
    git clone https://github.com/your-username/EV-Trends-Dashboard.git
+
+
+**Open the Tableau Workbook**: Open the .twb or .twbx file using Tableau Desktop.
+
+**Interact with the Dashboard**: Use Tableau's interactive features to explore the EV adoption trends, market insights, and state-wise distribution. You can filter by state, time period, or market segments for detailed insights.
+
+### How to Use
+**EV Adoption Rates**: The dashboard provides a timeline of EV adoption in the USA, allowing users to explore trends over the years.
+**Market Trends**: View insights about the electric vehicle market, including vehicle sales and growth in EV-related sectors.
+**State-wise Distribution**: Explore which states have the highest adoption rates for electric vehicles and identify regional trends.
+**Interactive Features**: Filter and drill down into the data based on your interests. Tableau offers various ways to interact with the data, such as selecting specific states or periods to analyze in detail.
+Contributing
+We welcome contributions to improve the project. To contribute, follow these steps:
+
+### Fork the repository: Click the "Fork" button at the top right of the page to create your own copy of the repository.
+
+Create a new branch:
+```bash
+git checkout -b feature-name
+Commit your changes:
+```bash
+git commit -m 'Add new feature'
+Push to the branch:
+```bash
+git push origin feature-name
+Create a pull request: Go to the repository on GitHub and click on "New Pull Request" to submit your changes.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
