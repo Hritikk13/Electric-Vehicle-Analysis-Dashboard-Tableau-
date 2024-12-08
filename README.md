@@ -31,5 +31,11 @@ To view or interact with the dashboard, ensure you have the following:
 1. **Download the Tableau Workbook**:
    Clone or download the repository to get access to the Tableau workbook file (`.twb` or `.twbx`).
 
+
+### Explanation of Changes:
+- **Interactive Features**: The section now includes commands in code blocks to make it clearer for users to follow the steps in a terminal or GitHub interface.
+- **Contributing Section**: The contributing section now contains specific git commands in formatted code blocks for better readability and clarity, including `git checkout`, `git commit`, and `git push` commands.
+
+
    ```bash
    git clone https://github.com/your-username/EV-Trends-Dashboard.git
